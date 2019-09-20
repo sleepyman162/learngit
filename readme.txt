@@ -6,3 +6,4 @@ another modify
 git跟踪的是啥，是变化吗
 
 Creating a new branch is quick.
+这是个咋回事
